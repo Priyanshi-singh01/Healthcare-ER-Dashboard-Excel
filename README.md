@@ -18,8 +18,7 @@ patterns related to patient flow, waiting time, and satisfaction.
 - Certain departments receive higher ER traffic.
 - Waiting time directly impacts satisfaction.
 
-## Files
-Hospital Emergency Room Data.csv
+## Dashboard
 
 <img width="1861" height="828" alt="image" src="https://github.com/user-attachments/assets/e564fd88-b6ab-4900-a8e2-7aa786790e55" />
 
