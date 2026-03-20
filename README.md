@@ -1,4 +1,4 @@
-# Healthcare-ER-Dashboard-Exce
+# Healthcare-ER-Dashboard-Excel
 ## Objective
 To analyze emergency room patient data and identify key
 patterns related to patient flow, waiting time, and satisfaction.
